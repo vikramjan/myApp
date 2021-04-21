@@ -11,9 +11,10 @@ class App extends Component {
     
 
       return(
-        <div className="container">      
-            <PostList />
-            <PostAnnotations />
+        <div className="container">  
+          <h1>Hello World</h1>    
+          <PostList />
+          <PostAnnotations />
         </div>
 
     )
